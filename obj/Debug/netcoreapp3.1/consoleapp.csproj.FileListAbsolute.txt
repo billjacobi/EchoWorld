@@ -1,0 +1,13 @@
+/home/ubuntu/consoleapp/bin/Debug/netcoreapp3.1/consoleapp
+/home/ubuntu/consoleapp/bin/Debug/netcoreapp3.1/consoleapp.deps.json
+/home/ubuntu/consoleapp/bin/Debug/netcoreapp3.1/consoleapp.runtimeconfig.json
+/home/ubuntu/consoleapp/bin/Debug/netcoreapp3.1/consoleapp.runtimeconfig.dev.json
+/home/ubuntu/consoleapp/bin/Debug/netcoreapp3.1/consoleapp.dll
+/home/ubuntu/consoleapp/bin/Debug/netcoreapp3.1/consoleapp.pdb
+/home/ubuntu/consoleapp/obj/Debug/netcoreapp3.1/consoleapp.csprojAssemblyReference.cache
+/home/ubuntu/consoleapp/obj/Debug/netcoreapp3.1/consoleapp.csproj.CoreCompileInputs.cache
+/home/ubuntu/consoleapp/obj/Debug/netcoreapp3.1/consoleapp.AssemblyInfoInputs.cache
+/home/ubuntu/consoleapp/obj/Debug/netcoreapp3.1/consoleapp.AssemblyInfo.cs
+/home/ubuntu/consoleapp/obj/Debug/netcoreapp3.1/consoleapp.dll
+/home/ubuntu/consoleapp/obj/Debug/netcoreapp3.1/consoleapp.pdb
+/home/ubuntu/consoleapp/obj/Debug/netcoreapp3.1/consoleapp.genruntimeconfig.cache
