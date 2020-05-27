@@ -7,6 +7,7 @@ namespace TestConsole
         static void Main(string[] args)
         {
             var c1 = new MyClass();
+# Debugging on next line
             Console.WriteLine("Enter x to EXIT...");
             while(true)
             {
